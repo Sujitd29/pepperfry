@@ -1,8 +1,9 @@
 # Pepperfry clone
 
-###### It's an E-Commerce website(Pepperfry) clone which sells furniture.
+* ## [Backend Code](https://github.com/hramdas/pepperfry-api)
+* ## [Demo](https://pepperfry.hramdas.in/)
 
-##### Pepperfry is an Indian online marketplace for furniture and home décor. The company was formed by Ex-eBay executives Ambareesh Murty and Ashish Shah started Pepperfry in Mumbai in 2012. The company is headquartered in Mumbai, Maharashtra and operates as a subsidiary of Trendsutra Platform Services Private Limited.
+Pepperfry is an Indian online marketplace for furniture and home décor. The company was formed by Ex-eBay executives Ambareesh Murty and Ashish Shah started Pepperfry in Mumbai in 2012. The company is headquartered in Mumbai, Maharashtra and operates as a subsidiary of Trendsutra Platform Services Private Limited.
 
 ## Tech Stacks Used
 <img src="https://agileengine.com/wp-content/uploads/2018/02/mern.jpg" width="100%">
@@ -17,7 +18,7 @@
 - In top section there is a Header which displays Dropdown menu of pages.
 - At the bottom section there is a footer, both Header & Footer are same across all the pages.
 
-<img width="929" alt="Screenshot (640)" src="https://github.com/Vinesh3124/pepperfry_clone/blob/master/Frontend/src/Images/LandingPage.png">
+<img width="929" alt="Pepperfry Home" src="https://hramdas.in/assests/images/pepperfry.webp">
 
 ## Login Page
 
@@ -51,4 +52,4 @@
 
 
 
-* [<<< Backend Code >>>](https://github.com/hramdas/pepperfry-api)
+
